@@ -1,16 +1,6 @@
-# nlw_two
+Semana NLW, aplicativo flutter PayFlow
+Nessa semana, aprendemos a como utilizar o firebase em um projeto, e a utilizar recursos nativos, como acessar a camera e armazenar as imagens.
+Esse aplicativo permite ao usuário a gerênciar suas contas, inserindo os boletos que tem para vencer, controlando assim seus gastos.
+O próximo desafio agora, melhorar o App inserindo botão para excluir o boleto, e fazer que os valores sejam somados, a fim do usuário ter um melhor uso do aplicativo.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/53340410/123491328-ce980700-d5ec-11eb-9ada-96ddf9e2d0e9.mp4
